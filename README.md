@@ -42,14 +42,14 @@ The contacts dataset contains the following columns:
 - **n_messages**: The total number of messages that were sent around this inquiry.
 
 ### Dependencies
--**Pandas** 2.0.3
--**Numpy** 1.24.3
--**Matplotlib** 3.7.1
--**Seaborn** 0.12.2
+-**Pandas** 2.0.3<br>
+-**Numpy** 1.24.3<br>
+-**Matplotlib** 3.7.1<br>
+-**Seaborn** 0.12.2<br>
 
 ### How to Use
-1.Ensure you have the required dependencies installed.
-2.Download the searches.tsv and contacts.tsv datasets from Airbnb.
-3.Replace the file paths in the code with the paths to your downloaded datasets.
-4.Run the provided Jupyter Notebook cells to perform exploratory data analysis on the datasets.
+1.Ensure you have the required dependencies installed.<br>
+2.Download the searches.tsv and contacts.tsv datasets from Airbnb.<br>
+3.Replace the file paths in the code with the paths to your downloaded datasets.<br>
+4.Run the provided Jupyter Notebook cells to perform exploratory data analysis on the datasets.<br>
 5.Feel free to explore and analyze the datasets to answer the key questions outlined above.
