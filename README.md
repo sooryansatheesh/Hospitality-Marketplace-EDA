@@ -51,5 +51,6 @@ The contacts dataset contains the following columns:
 1.Ensure you have the required dependencies installed.<br>
 2.Download the searches.tsv and contacts.tsv datasets from Airbnb.<br>
 3.Replace the file paths in the code with the paths to your downloaded datasets.<br>
-4.Run the provided Jupyter Notebook cells to perform exploratory data analysis on the datasets.<br>
-5.Feel free to explore and analyze the datasets to answer the key questions outlined above.
+4.Run the provided Jupyter Notebook cells to perform exploratory data analysis on the datasets.<be>
+
+Feel free to explore and analyze the datasets to answer the key questions outlined above.
